@@ -1,5 +1,7 @@
 # pip-install-aryar
 (pip-install-aryar) ------> https://pypi.org/project/aryar/
+
+
 #choose an image and put it in images_folder (or name something else) then this code will tell you about the image present in folder (you can also for_loop this for multiple images..just change the code).
 
 
